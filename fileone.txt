@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 hello this is a file that insert into github 
-text from master
+text from master and fixtext
